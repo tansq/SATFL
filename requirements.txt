@@ -1,0 +1,9 @@
+numpy==1.15.4
+tensorflow-gpu==1.14.0
+keras==2.3.1
+cv2==4.2.0
+glob
+Pillow
+scikit-image
+tqdm
+
